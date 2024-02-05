@@ -1,5 +1,6 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# a game about a blue shape called Sonic 
 
-DO NOT LEAVE IT LIKE THIS!!!
+Collect emeralds to progress through a strange, flat plane of existence, but don't hit the spikes!
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+WASD controls
+This game uses singletons
