@@ -2,5 +2,4 @@
 
 Collect emeralds to progress through a strange, flat plane of existence, but don't hit the spikes!
 
-WASD controls
-This game uses singletons
+WASD controls; this game uses singletons
